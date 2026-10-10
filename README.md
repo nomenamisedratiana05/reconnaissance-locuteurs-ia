@@ -177,7 +177,7 @@ models/modele_voix.joblib
 Pour tester la reconnaissance d'un fichier audio, exécuter :
 
 ```bash
-python scripts/prediction.py "donnees/test/moi/nom_du_fichier_audio.mp3"
+python scripts/prediction.py "donnees/test/ami/Recording_75.wav"
 ```
 
 Remplacer `nom_du_fichier_audio.mp3` par le nom réel d'un fichier audio présent dans le dossier indiqué.
